@@ -8,7 +8,8 @@
 выводы зафиксировать
 Выполнение
 
-![Screenshot_1](https://github.com/vladislavkrutov8/Containerization-Seminar_5/assets/110223646/ffc02cc9-1961-4818-a3c1-dc094514d1d5)
+![Screenshot_11](https://github.com/vladislavkrutov8/Containerization-Seminar_5/assets/110223646/f98b6d6c-6f7d-438a-a9a7-549b386b6dcc)
+
 ![Screenshot_2](https://github.com/vladislavkrutov8/Containerization-Seminar_5/assets/110223646/a13ac5f6-88db-45c1-bc5b-5d7039b7f92d)
 ![Screenshot_3](https://github.com/vladislavkrutov8/Containerization-Seminar_5/assets/110223646/51029ce6-95f1-434e-8981-88fdebd39c01)
 ![Screenshot_4](https://github.com/vladislavkrutov8/Containerization-Seminar_5/assets/110223646/2731e433-9551-4117-87bf-96bcec8b48a5)
